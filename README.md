@@ -6,4 +6,4 @@ To do this, we focused on clauses of RFC8520 that contain key terms implying man
 As a result, we derived 26 verifiable tests; some are mandatory in nature, while others can be considered optional, depending on the key terms used in the corresponding clause of the RFC document. 
 
 ## Acknowledgement
-This work was done through a collaboration between researchers at [UNSW Sydney](https://iotanalytics.unsw.edu.au/) and [CNLABS](https://cnlabsglobal.com/).
+This work was carried out through a collaboration between researchers at [UNSW Sydney](https://iotanalytics.unsw.edu.au/) and [CNLABS](https://cnlabsglobal.com/).
