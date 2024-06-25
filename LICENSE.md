@@ -1,4 +1,4 @@
-MIT License
+# MIT License  
 
 Copyright (c) 2024 [IoT Traffic Analytics Research Group, School of EE&T, UNSW Sydney](https://iotanalytics.unsw.edu.au/)
 
